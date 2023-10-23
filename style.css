@@ -1,3 +1,7 @@
 .zebra{
 border: 5px dashed black;
 }
+.Grande {
+font-size: 30px;
+font-weight: bold;
+}
